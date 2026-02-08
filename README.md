@@ -31,7 +31,6 @@ npm run dev  # in /client
 ```
 
 ## Screenshots
-![Register](./client/src/assets/register.png)
 ![Hatch Editor](./client/src/assets/hatcheditor.png)
 
 ## Team
